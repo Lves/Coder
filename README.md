@@ -1,5 +1,10 @@
 # Coder
-搞笑的代码注释
+
+写好注释无bug,来看看程序员都有哪些奇葩的注释。
+
+信则有，不信则无。
+
+
 
 ```
 
@@ -1594,11 +1599,8 @@ TTTTTTTT  OOOOOOOOO  UU     UU  RRRRRRRR             EEEEEEEEE  IIIIIIIIII  FFFF
  *         `..`
  */
 
-
-
-
-
-
-
-
 ```
+
+注释来自网络和[http://www.asciiworld.com/-Cats-2-.html](http://www.asciiworld.com/-Cats-2-.html) ，还有一些好玩的可以登录http://www.asciiworld.com/-Cats-2-.html   查看
+
+
